@@ -13,13 +13,6 @@ This is a full-featured e-commerce mobile application built with **Flutter**. It
 - 🔔 Firebase Integration (Push Notifications or Auth)
 - 💻 Cross-platform: Android, iOS, Web, Desktop (Windows, macOS, Linux)
 
----
-
-## 📸 Screenshots
-_Add screenshots here if you have any_
-
----
-
 ## 🛠️ Tech Stack
 
 - **Flutter**
